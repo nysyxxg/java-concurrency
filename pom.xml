@@ -27,7 +27,6 @@
         <module>design_pattern</module>
         <module>classLoader</module>
         <module>test</module>
-        <module>jcu</module>
         <module>jcuexample</module>
         <module>book</module>
     </modules>

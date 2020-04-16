@@ -10,7 +10,6 @@
         <module name="classLoader" />
         <module name="design_pattern" />
         <module name="example" />
-        <module name="jcu" />
         <module name="jcuexample" />
         <module name="sharing" />
         <module name="test" />
